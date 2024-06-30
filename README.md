@@ -1,6 +1,6 @@
 <h2><b>Project Overview</b></h2>
 
-This project focuses on testing different components informy website using ("https://formy-project.herokuapp.com) selenium.This covering Testing<br>
+This project focuses on testing different components informy website using (https://formy-project.herokuapp.com) selenium.This covering Testing<br>
 <li>DatePicker</li>
 <li>DropDown</li>
 <li>FileUpload</li>
@@ -24,5 +24,6 @@ This project focuses on testing different components informy website using ("htt
 <li>intellij IDEA: Integrated development environment providing tools for Java development and project management</li>
 
 <h2><b>Folder Structure</b></h2>
-![formy_structure](https://github.com/lakmali-vishaka/Formy_Project-Automation/assets/119029100/897a2f6c-a0a3-4a99-9872-2ad44c86641d)
+
+![formy_structure](https://github.com/lakmali-vishaka/Formy_Project-Automation/assets/119029100/f2ecd32d-13b6-4e00-a694-a08ec05ab399)
 
