@@ -21,6 +21,8 @@ This project focuses on testing different components informy website using ("htt
 
 <li>Java: Programming language used for writing test scripts and interacting with Selenium WebDriver.</li>
 
-<li>intellij IDE: Integrated development environment providing tools for Java development and project management</li>
+<li>intellij IDEA: Integrated development environment providing tools for Java development and project management</li>
 
 <h2><b>Folder Structure</b></h2>
+![formy_structure](https://github.com/lakmali-vishaka/Formy_Project-Automation/assets/119029100/897a2f6c-a0a3-4a99-9872-2ad44c86641d)
+
